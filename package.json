@@ -1,0 +1,21 @@
+{
+  "name": "@experimentallife/serialize",
+  "version": "1.0.0",
+  "description": "serialize module",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": "Experimental Life",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExperimentalLife/serialize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ExperimentalLife/serialize/issues"
+  },
+  "homepage": "https://github.com/ExperimentalLife/serialize#readme",
+  "dependencies": {}
+}
